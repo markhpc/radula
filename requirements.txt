@@ -1,0 +1,5 @@
+Fabric>=1.4.0
+distribute>=0.6.10
+pycrypto>=2.5
+pysqlite>=2.6.3
+ssh>=1.7.13
